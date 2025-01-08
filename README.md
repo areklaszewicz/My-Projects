@@ -5,7 +5,7 @@
 
 ## Project Goal
 
-The main goal of this project is to analyze veterans' data from all counties across the United States and identify the 100 counties with the highest need for employment programs supported by the Department of Veterans Affairs. This analysis will involve investigating various factors that may inform in which counties these programs will most effectively improve employment outcomes.
+The main goal of this project is to analyze veterans' data from all counties across the United States and identify the 100 counties with the highest need for employment programs supported by the Department of Veterans Affairs. This analysis will involve investigating various factors that may inform in which counties these programs will most effectively improve veterans' employment outcomes. Built a report to comprehensively analyze veteran characteristics, including demographics, socioeconomic status, and well-being.
 
 ## Data Details
 Atlas of Rural and Small-Town America - datasets from Economic Research Service (U.S. Department of Agriculture)
@@ -56,14 +56,14 @@ Atlas of Rural and Small-Town America - datasets from Economic Research Service 
 ## Exploratory Data Analysis
 
 In the EDA phase, I explored the stocked data to answer questions essential for this project:
-- What is the rate and number of veterans in a given region?
-- What is the rate of disability among veterans in a given region?
-- What is the rate of unemployed veterans in a given region?
+- What are the counties with the highest number of veterans?
+- What are the counties with the highest rate of disability among veterans?
+- What are the counties with the highest rate of unemployed veterans?
 - In which counties is the number of veteran labor force participation the highest?
 - How does the correlation look between the rate of unemployed veterans and the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?"
 - In which counties is the median yearly income of veterans the lowest?
 - How does the correlation look between veterans' yearly income and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
-- What is the rate of veterans in poverty in a given region?
+- Where are the highest rates of veterans in poverty?
 - How does the correlation look between the veteran poverty rate and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
 
 ### Interesting codes used in the project:
@@ -182,3 +182,22 @@ Step by step process: [Data visualization](https://github.com/user-attachments/f
 
 - Lower income is associated with higher unemployment rates and lower educational attainment. Conversely, the analysis demonstrates a strong positive correlation between veteran income and the percentage of veterans with a college degree, suggesting that veterans with higher levels of education tend to have higher incomes.
 
+- The counties with the highest rates of veteran poverty:
+  - Texas, Lipscomb: 75.86%
+  - Puerto Rico, Lajas: 69.09%
+  - Puerto Rico, Corozal: 67.30%
+  - Oklahoma, Harper: 64.77%
+  - Nebraska, Hayes: 58.06%
+  - West Virginia, Calhoun: 55.00%
+  - Kansas, Stevens: 54.84%
+  - Georgia, Clay: 51.55%
+  - Puerto Rico, Adjuntas: 50.00%
+  - Puerto Rico, Isabela: 48.33%
+  - Kentucky, Bell: 46.71%
+  - Missouri, Barton: 45.27%
+  - Florida, DeSoto: 43.89%
+  - West Virginia, Mingo: 42.53%
+  - South Dakota, Tripp: 41.46%
+
+- Higher levels of education are associated with lower poverty among veterans, while lower educational attainment is linked to both increased poverty and higher unemployment rates among veterans.
+- These findings underscore the importance of educational attainment and employment opportunities in improving the economic well-being of veterans.
