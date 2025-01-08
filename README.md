@@ -5,7 +5,7 @@
 
 ## Project Goal
 
-The main goal of this project is to analyze veterans' data from all counties across the United States and identify the 100 counties with the highest need for employment programs supported by the Department of Veterans Affairs. This analysis will involve investigating various factors that may inform in which counties these programs will most effectively improve veterans' employment outcomes. Built a report to comprehensively analyze veteran characteristics, including demographics, socioeconomic status, and well-being.
+The main goal of this project is to analyze veterans' data from all counties across the United States and identify the 40 counties with the highest need for employment programs supported by the Department of Veterans Affairs. This analysis will involve investigating various factors that may inform in which counties these programs will most effectively improve veterans' employment outcomes. Built a report to comprehensively analyze veteran characteristics, including demographics, socioeconomic status, and well-being.
 
 ## Data Details
 Atlas of Rural and Small-Town America - datasets from Economic Research Service (U.S. Department of Agriculture)
@@ -128,7 +128,7 @@ Step by step process: [Data visualization](https://github.com/user-attachments/f
   - West Virginia, Summers: 61.31%...
 
 - The counties with the highest rate of unemployed veterans:
-  - Puerto Rico, Maricao: 100.00%
+  - Puerto Rico, Morovis: 100.00%
   - Puerto Rico, Utuado: 100.00%
   - North Dakota, Divide: 84.00%
   - Georgia, Calhoun: 81.08%
@@ -201,3 +201,46 @@ Step by step process: [Data visualization](https://github.com/user-attachments/f
 
 - Higher levels of education are associated with lower poverty among veterans, while lower educational attainment is linked to both increased poverty and higher unemployment rates among veterans.
 - These findings underscore the importance of educational attainment and employment opportunities in improving the economic well-being of veterans.
+
+## Recommendations
+Based on the analysis, I recommend implementing the employment program in these counties:
+  - Puerto Rico, Corozal 
+  - South Dakota, Mellette
+  - Oklahoma, Harper 
+  - Georgia, Quitman
+  - Puerto Rico, Adjuntas
+  - Puerto Rico, Utuado
+  - Puerto Rico, Yabucoa
+  - Puerto Rico, San Juan
+  - Mississippi, Prentiss
+  - Kentucky, Whitley
+  - Missouri, Cedar 
+  - Kentucky, Trimble
+  - Kansas, Stevens
+  - Mississippi, Tippah
+  - Puerto Rico, Lajas
+  - Nevada, Mineral
+  - Puerto Rico, Salinas
+  - Georgia, Calhoun
+  - South Dakota, Tripp
+  - Arkansas, Fulton
+  - Tennessee, Perry
+  - Missouri, Barton
+  - Georgia, Turner
+  - Florida, DeSoto
+  - Arkansas, Lee
+  - Ohio, Noble
+  - Georgia, Clay
+  - West Virginia, Wyoming
+  - Louisiana, Morehouse
+  - Mississippi, Washington
+  - Alaska, Kusilvak 
+  - Georgia, Twiggs 
+  - South Dakota, Harding 
+  - Tennessee, Perry 
+  - Georgia, Berrien 
+  - Kentucky, Lee
+  - Texas, Comanche
+  - Mississippi, Forest
+  - Virginia, Harrisonburg 
+  - Oklahoma, Kingfisher
