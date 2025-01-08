@@ -58,14 +58,12 @@ Atlas of Rural and Small-Town America - datasets from Economic Research Service 
 In the EDA phase, I explored the stocked data to answer questions essential for this project:
 - What is the rate and number of veterans in a given region?
 - What is the rate of disability among veterans in a given region?
-- What is the proportion of males and females among veterans?
 - What is the rate of unemployed veterans in a given region?
-- In which counties is the veteran labor force participation rate the lowest?
-- What is the difference in educational levels between veterans and the overall population?
+- In which counties is the number of veteran labor force participation the highest?
 - How does the correlation look between the rate of unemployed veterans and the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?"
 - In which counties is the median yearly income of veterans the lowest?
 - How does the correlation look between veterans' yearly income and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
-- What is the rate and number of veterans in poverty in a given region?
+- What is the rate of veterans in poverty in a given region?
 - How does the correlation look between the veteran poverty rate and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
 
 ### Interesting codes used in the project:
@@ -113,3 +111,74 @@ In the EDA phase, I explored the stocked data to answer questions essential for 
 - Correlation charts.
 
 Step by step process: [Data visualization](https://github.com/user-attachments/files/18336834/Data.visualization.docx)
+
+## Findings
+- The regions with the highest number of veterans are Maricopa County in Arizona, San Diego County in California, Los Angeles County in California, and Bexar County in Texas...
+
+- The counties with the highest rates of disabled veterans are for example:
+  - Texas, Lipscomb: 83.33%
+  - Puerto Rico, Sabana Grande: 77.42%
+  - Oklahoma, Harper: 72.73%
+  - Arkansas, Nevada: 68.89%
+  - West Virginia, Braxton: 68.22%
+  - Georgia, Turner: 67.34%
+  - Puerto Rico, Morovis: 66.67%
+  - Arkansas, Bradley: 64.42%
+  - Tennessee, Perry: 61.73%
+  - West Virginia, Summers: 61.31%...
+
+- The counties with the highest rate of unemployed veterans:
+  - Puerto Rico, Maricao: 100.00%
+  - Puerto Rico, Utuado: 100.00%
+  - North Dakota, Divide: 84.00%
+  - Georgia, Calhoun: 81.08%
+  - Puerto Rico, Corozal: 77.91%
+  - Puerto Rico, Adjuntas: 66.28%
+  - South Dakota, Tripp: 60.78%
+  - Georgia, Quitman: 53.85%
+  - Arkansas, Fulton: 47.47%
+  - Colorado, Jackson: 46.48%
+  - South Dakota, Mellette: 46.15%
+  - Puerto Rico, Lajas: 43.33%
+  - Kentucky, Owsley: 42.86%
+  - Pennsylvania, Cameron: 42.70%
+  - Tennessee, Perry: 40.91%
+  - Puerto Rico, Dorado: 39.91%
+  - Puerto Rico, Yabucoa: 39.90%
+  - Missouri, Barton: 38.38%
+  - Texas, Floyd: 37.68%
+  - West Virginia, Gilmer: 37.33%...
+ 
+- The counties with the highest number of veterans in the labor force:
+  - Maricopa County, Arizona: 89,953
+  - San Diego County, California: 96,894
+  - Los Angeles County, California: 90,140
+  - Harris County, Texas: 76,140
+  - Bexar County, Texas: 73,248
+  - Clark County, Nevada: 57,996
+  - Cook County, Illinois: 54,924
+  - Tarrant County, Texas: 52,255
+  - El Paso County, Colorado: 48,441
+  - Duval County, Florida: 45,555
+ 
+-  It seems that veterans with lower level of education may have higher unemployment rates compared to veterans with higher levels of education.
+
+- The counties with the lowest median yearly income for veterans:
+  - South Dakota, Mellette: $12K
+  - Puerto Rico, Corozal: $16K
+  - Puerto Rico, Isabela: $17K
+  - Arkansas, Nevada: $17K
+  - Puerto Rico, Sabana Grande: $17K
+  - Puerto Rico, Juana Diaz: $18K
+  - Mississippi, Holmes: $19K
+  - Arkansas, Fulton: $19K
+  - Puerto Rico, Morovis: $19K
+  - Georgia, Quitman: $19K
+  - Nevada, Mineral: $19K
+  - Puerto Rico, Adjuntas: $19K
+  - Georgia, Dooly: $20K
+  - Mississippi, Marion: $20K
+  - Puerto Rico, Caguas: $20K
+
+- Lower income is associated with higher unemployment rates and lower educational attainment. Conversely, the analysis demonstrates a strong positive correlation between veteran income and the percentage of veterans with a college degree, suggesting that veterans with higher levels of education tend to have higher incomes.
+
