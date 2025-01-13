@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/85e44a7b-1308-4c20-a215-6921cbf5362f)
 
-[Download Project]
+[Download Project](https://drive.google.com/drive/folders/18LxDSdE4ZY4HO2qBHRu5CDWvatLFaOvl?usp=drive_link) !!!!!
 
 ## Project Goal
 
@@ -73,6 +73,8 @@ In the EDA phase, I explored the stocked data to answer questions essential for 
 
 - Where are the highest rates of veterans in poverty?
 - How does the correlation look between the veteran poverty rate and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
+![image](https://github.com/user-attachments/assets/2fff0516-3c70-46d1-9a20-0499d372243f)
+
 
 ### Interesting codes used in the project:
 ![image](https://github.com/user-attachments/assets/6e9bee2b-a179-482f-8c4e-eb78a0174d79)
