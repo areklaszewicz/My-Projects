@@ -1,4 +1,4 @@
-# Veteran Work Support Project
+# [Veteran Work Support Project](https://areklaszewicz.github.io/My-Projects/)
 
 ![image](https://github.com/user-attachments/assets/85e44a7b-1308-4c20-a215-6921cbf5362f)
 
@@ -257,6 +257,6 @@ Based on the analysis, I recommend implementing the employment program in these 
   - Virginia, Harrisonburg 
   - Oklahoma, Kingfisher
 
-##Limitations
+## Limitations
 - This table presents data on various veteran characteristics, aggregated over the period from 2017 to 2021, representing average values for that timeframe.
 - Veterans' data was collected from individuals aged 18 to 64.
