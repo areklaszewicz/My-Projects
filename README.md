@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/85e44a7b-1308-4c20-a215-6921cbf5362f)
 
+[Download Project]
 
 ## Project Goal
 
@@ -53,16 +54,23 @@ Atlas of Rural and Small-Town America - datasets from Economic Research Service 
 - Creating a fact table for the star schema.
 ![image](https://github.com/user-attachments/assets/2f6e931f-409f-4e91-938e-a4396bc1b28f)
 
+Step by step process: [Data cleaning](https://github.com/user-attachments/files/18402254/Data.cleaning.process.pdf)
+
+
 ## Exploratory Data Analysis
 
 In the EDA phase, I explored the stocked data to answer questions essential for this project:
 - What are the counties with the highest number of veterans?
 - What are the counties with the highest rate of disability among veterans?
 - What are the counties with the highest rate of unemployed veterans?
+![image](https://github.com/user-attachments/assets/6b5132ca-f11c-430a-a277-fa9eccd6e646)
+
 - In which counties is the number of veteran labor force participation the highest?
-- How does the correlation look between the rate of unemployed veterans and the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?"
+- How does the correlation look between the rate of unemployed veterans and the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
 - In which counties is the median yearly income of veterans the lowest?
 - How does the correlation look between veterans' yearly income and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
+![image](https://github.com/user-attachments/assets/68f2f8e9-ab37-468e-bff6-0fa5863fc522)
+
 - Where are the highest rates of veterans in poverty?
 - How does the correlation look between the veteran poverty rate and the rate of unemployed veterans/the percentage of veterans with a college degree/the percentage of veterans without a High School diploma?
 
@@ -72,6 +80,8 @@ In the EDA phase, I explored the stocked data to answer questions essential for 
 
 ![image](https://github.com/user-attachments/assets/82be3552-c0b2-4cef-962c-4fa7c5011baf)
 - changing "year" column to date
+
+Step by step process: [EDA process](https://github.com/user-attachments/files/18402242/EDA.process.pdf)
 
 
 ## Data Visualization 
@@ -110,7 +120,7 @@ In the EDA phase, I explored the stocked data to answer questions essential for 
 - Bar charts.
 - Correlation charts.
 
-Step by step process: [Data visualization](https://github.com/user-attachments/files/18336834/Data.visualization.docx)
+Step by step process: [Data visualization](https://github.com/user-attachments/files/18402227/Data.visualization.process.pdf)
 
 ## Findings
 - The regions with the highest number of veterans are Maricopa County in Arizona, San Diego County in California, Los Angeles County in California, and Bexar County in Texas...
@@ -244,3 +254,7 @@ Based on the analysis, I recommend implementing the employment program in these 
   - Mississippi, Forest
   - Virginia, Harrisonburg 
   - Oklahoma, Kingfisher
+
+##Limitations
+- This table presents data on various veteran characteristics, aggregated over the period from 2017 to 2021, representing average values for that timeframe.
+- Veterans' data was collected from individuals aged 18 to 64.
