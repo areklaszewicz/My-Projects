@@ -258,5 +258,5 @@ Based on the analysis, I recommend implementing the employment program in these 
   - Oklahoma, Kingfisher
 
 ## Limitations
-- This table presents data on various veteran characteristics, aggregated over the period from 2017 to 2021, representing average values for that timeframe.
+- Data on various veteran characteristics is aggregated over the period from 2017 to 2021, representing average values for that timeframe.
 - Veterans' data was collected from individuals aged 18 to 64.
